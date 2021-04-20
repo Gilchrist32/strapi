@@ -39,13 +39,13 @@
     "swagger-ui-dist": "3.47.1"
   },
   "author": {
-    "name": "soupette",
+    "name": "Strapi team",
     "email": "hi@strapi.io",
     "url": "https://strapi.io"
   },
   "maintainers": [
     {
-      "name": "Strapi",
+      "name": "Strapi team",
       "email": "hi@strapi.io",
       "url": "https://strapi.io"
     },
